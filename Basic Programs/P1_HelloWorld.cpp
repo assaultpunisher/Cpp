@@ -1,5 +1,4 @@
 /*
-  Created in Visual Studio
   Author: YUGAM
 */
 
