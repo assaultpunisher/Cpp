@@ -1,4 +1,4 @@
-# Cpp
+# C++
 ## C++ Introduction
 ### What is C++?
 - C++ is a cross-platform language that can be used to create high-performance applications.
